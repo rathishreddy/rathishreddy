@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rathishreddy
+- 👀 I’m interested in learning new things and programming
+- 🌱 I’m currently learning basics of java.
+- 💞️ I’m looking to collaborate on git for furthur learnings
+- 📫 How to reach me gmail at rathishinfosys.com
